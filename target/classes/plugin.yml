@@ -1,0 +1,5 @@
+name: BlockNetBungee
+version: 0.0.1
+author: BlockNet
+main: com.buby.blocknet.BlockNetBungee
+description: BlockNetBungee

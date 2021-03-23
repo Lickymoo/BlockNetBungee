@@ -1,0 +1,5 @@
+{
+    "masterApiPort":8888,
+    "masterIp":"localhost",
+    "apiPort": 8891
+}
